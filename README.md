@@ -1,1 +1,1 @@
-# Challenge App made using Spring Boot Depolyed on AWS
+# Challenge App made using Spring Boot Deployed on AWS
