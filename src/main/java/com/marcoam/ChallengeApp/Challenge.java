@@ -26,6 +26,15 @@ public class Challenge {
         return description;
     }
 
-   
+    public void setId(Long id) {
+        this.id = id;
+    }
 
+    public void setMonth(String month) {
+        this.month = month;
+    }
+
+    public void setDescription(String description) {
+        this.description = description;
+    }
 }
